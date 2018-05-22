@@ -1,3 +1,4 @@
+# room_member
 1. Slackアプリを作成し、Webhook用URLを作成
 2. Google Spread Sheetからスクリプトを作成し、「room_member.gs」をコピぺして、シートIDとシート名を作成したスプレッドシートのものに書き換える
 3. スクリプトのWebhook用URLを作成する
